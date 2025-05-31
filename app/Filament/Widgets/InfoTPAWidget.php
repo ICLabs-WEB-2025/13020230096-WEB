@@ -12,7 +12,7 @@ class InfoTPAWidget extends Widget
 
     protected function getViewData(): array
     {
-        $deskripsi = "TPA Al-Furqan adalah lembaga pendidikan ...";
+        $deskripsi = "TPA Al-Ikhlas adalah lembaga pendidikan nonformal yang mempelajari Al-Qur’an dan nilai-nilai keislaman";
         $kegiatan = [
             'Belajar mengaji Al-Quran',
             'Doa-doa harian',
